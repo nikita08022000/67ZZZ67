@@ -16,6 +16,6 @@ public:
     }
     
     const char* name() const {
-        return "Куб";
+        return "Cube";
     }
 };
