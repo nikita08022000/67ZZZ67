@@ -1,3 +1,5 @@
+#include <iostream>
+#include <cmath>
 class Circle : public I2DShape {
 private:
     double radius;

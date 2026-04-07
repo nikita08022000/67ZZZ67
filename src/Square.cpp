@@ -1,3 +1,5 @@
+#include <iostream>
+#include <cmath>
 class Square : public I2DShape {
 private:
     double side;

@@ -1,3 +1,5 @@
+#include <iostream>
+#include <cmath>
 class Trapezoid : public I2DShape {
 private:
     double a, b, c, d;
