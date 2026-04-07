@@ -13,6 +13,6 @@ public:
     }
     
     const char* name() const {
-        return "Шар";
+        return "Sphere";
     }
 };
