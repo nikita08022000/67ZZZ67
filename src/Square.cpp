@@ -1,5 +1,7 @@
 #include <iostream>
 #include <cmath>
+#include "I2DShape.h"
+
 class Square : public I2DShape {
 private:
     double side;

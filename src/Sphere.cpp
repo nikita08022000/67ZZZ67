@@ -1,5 +1,7 @@
 #include <iostream>
 #include <cmath>
+#include "I3DShape.h"
+
 class Sphere : public I3DShape {
 private:
     double radius;

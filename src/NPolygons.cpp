@@ -1,5 +1,6 @@
 #include <iostream>
 #include <cmath>
+#include "I2DShape.h"
 
 
 class NPolygon : public I2DShape {

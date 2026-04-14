@@ -1,5 +1,9 @@
 #include <iostream>
 #include <cmath>
+#include "I2DShape.h"
+
+
+
 class Triangle : public I2DShape {
 private:
     double a, b, c;

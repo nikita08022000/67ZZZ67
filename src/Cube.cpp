@@ -1,5 +1,6 @@
 #include <iostream>
 #include <cmath>
+#include "I3DShape.h"
 
 class Cube : public I3DShape {
 private:
